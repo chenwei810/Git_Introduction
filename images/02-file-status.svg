@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 530" width="820" height="530" role="img" aria-label="Sketch of the Sourcetree File Status view, with numbered callouts">
+<rect x="1" y="1" width="818" height="528" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<rect x="30" y="30" width="760" height="470" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/><line x1="30" y1="62" x2="790" y2="62" stroke="#d0d7de" stroke-width="1.5"/><circle cx="48" cy="46" r="5" fill="#ff5f57"/><circle cx="64" cy="46" r="5" fill="#febc2e"/><circle cx="80" cy="46" r="5" fill="#28c840"/>
+<rect x="110" y="40" width="34" height="22" rx="5" fill="#eaeef2"/>
+<rect x="168" y="40" width="34" height="22" rx="5" fill="#eaeef2"/>
+<rect x="226" y="40" width="34" height="22" rx="5" fill="#eaeef2"/>
+<rect x="284" y="40" width="34" height="22" rx="5" fill="#eaeef2"/>
+<rect x="342" y="40" width="34" height="22" rx="5" fill="#eaeef2"/>
+<rect x="400" y="40" width="34" height="22" rx="5" fill="#eaeef2"/>
+<rect x="458" y="40" width="34" height="22" rx="5" fill="#eaeef2"/>
+<rect x="46" y="80" width="150" height="404" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="54" y="92" width="134" height="26" rx="5" fill="#ddf4ff" stroke="#0969da" stroke-width="1.5"/>
+<rect x="64" y="101" width="90" height="8" rx="4.0" fill="#0969da"/>
+<rect x="64" y="136" width="70" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="64" y="162" width="90" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="64" y="188" width="110" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="64" y="214" width="70" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="64" y="240" width="90" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="64" y="266" width="110" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="210" y="80" width="270" height="160" rx="6" fill="#ffffff" stroke="#1f883d" stroke-width="2"/>
+<rect x="222" y="92" width="100" height="8" rx="4.0" fill="#1f883d"/>
+<path d="M224,112 h10 l5,5 v13 h-15 z" fill="none" stroke="#1f883d" stroke-width="1.5"/>
+<rect x="248" y="117" width="90" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="210" y="252" width="270" height="150" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="222" y="264" width="110" height="8" rx="4.0" fill="#8c959f"/>
+<rect x="360" y="256" width="110" height="24" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><rect x="372" y="264.0" width="86" height="8" rx="4.0" fill="#8c959f"/>
+<path d="M224,290 h10 l5,5 v13 h-15 z" fill="none" stroke="#d4a72c" stroke-width="1.5"/>
+<rect x="248" y="295" width="80" height="8" rx="4.0" fill="#c7cdd4"/>
+<path d="M224,320 h10 l5,5 v13 h-15 z" fill="none" stroke="#d4a72c" stroke-width="1.5"/>
+<rect x="248" y="325" width="100" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="494" y="80" width="280" height="322" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="512" y="106" width="120" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="512" y="136" width="157" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="512" y="166" width="194" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="500" y="188" width="268" height="24" fill="#ffebe9"/>
+<rect x="512" y="196" width="121" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="500" y="218" width="268" height="24" fill="#dafbe1"/>
+<rect x="512" y="226" width="158" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="512" y="256" width="195" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="512" y="286" width="122" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="512" y="316" width="159" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="512" y="346" width="196" height="8" rx="4.0" fill="#d8dee4"/>
+<rect x="210" y="414" width="450" height="58" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="224" y="430" width="160" height="8" rx="4.0" fill="#e1e4e8"/>
+<rect x="672" y="440" width="102" height="32" rx="6" fill="#0969da" stroke="#0969da" stroke-width="1.5"/><rect x="684" y="452.0" width="78" height="8" rx="4.0" fill="#ffffff"/>
+<line x1="200" y1="160" x2="212" y2="160" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="200" cy="160" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="200" y="165" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">1</text>
+<line x1="200" y1="266" x2="212" y2="266" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="200" cy="266" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="200" y="271" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">2</text>
+<line x1="415" y1="240" x2="415" y2="256" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="415" cy="240" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="415" y="245" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">3</text>
+<line x1="200" y1="450" x2="212" y2="446" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="200" cy="450" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="200" y="455" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">4</text>
+<line x1="723" y1="420" x2="723" y2="438" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="723" cy="420" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="723" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">5</text>
+</svg>

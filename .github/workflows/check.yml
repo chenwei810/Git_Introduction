@@ -1,0 +1,29 @@
+name: Check book
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check links, chapter structure and box format
+        run: python3 scripts/check_book.py
+      - name: Report translation status
+        run: python3 scripts/check_translations.py
+      - name: Build every practice starting point
+        run: |
+          git config --global user.name "CI"
+          git config --global user.email "ci@example.com"
+          for n in 2 3 4 5 6 7 8 9 10; do
+            bash practice/setup.sh "$n" "$RUNNER_TEMP/practice-$n" > /dev/null
+          done

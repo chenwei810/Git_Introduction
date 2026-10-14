@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="A commit graph with a branch that merges back">
+  <defs>
+    <radialGradient id="base" cx="42%" cy="38%" r="70%">
+      <stop offset="0" stop-color="#6d7fc0"/>
+      <stop offset="0.6" stop-color="#3f4f8f"/>
+      <stop offset="1" stop-color="#26305e"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5ee7ff" stop-opacity="0.45"/>
+      <stop offset="0.35" stop-color="#b98cff" stop-opacity="0.18"/>
+      <stop offset="0.6" stop-color="#ff8fc7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffd36e" stop-opacity="0.40"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="trunk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9d6ff" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="#c9d6ff" stop-opacity="0.85"/>
+      <stop offset="0.88" stop-color="#c9d6ff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#c9d6ff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><circle cx="200" cy="200" r="186"/></clipPath>
+  </defs>
+  <circle cx="200" cy="200" r="186" fill="url(#base)"/>
+  <g clip-path="url(#clip)">
+    <rect width="400" height="400" fill="url(#sheen)" style="mix-blend-mode:screen"/>
+    <g transform="translate(205 200) scale(1.18) translate(-205 -200)">
+    <!-- main branch -->
+    <rect x="160" y="44" width="10" height="312" rx="5" fill="url(#trunk)"/>
+    <!-- feature branch: leaves main and merges back -->
+    <path d="M165,140 C165,168 245,152 245,180 L245,220 C245,248 165,232 165,262" fill="none" stroke="#ffd36e" stroke-opacity="0.9" stroke-width="8" stroke-linecap="round"/>
+    <!-- commits on main -->
+    <circle cx="165" cy="84" r="13" fill="#c9d6ff"/>
+    <circle cx="165" cy="140" r="13" fill="#c9d6ff"/>
+    <circle cx="165" cy="200" r="13" fill="#c9d6ff"/>
+    <circle cx="165" cy="262" r="15" fill="#c9d6ff"/>
+    <!-- release: a ringed commit -->
+    <circle cx="165" cy="318" r="13" fill="#c9d6ff"/>
+    <circle cx="165" cy="318" r="22" fill="none" stroke="#c9d6ff" stroke-opacity="0.8" stroke-width="3"/>
+    <!-- commits on the branch; the highlighted one is the change this book follows -->
+    <circle cx="245" cy="180" r="13" fill="#ffd36e"/>
+    <circle cx="245" cy="220" r="24" fill="#ff8fc7" fill-opacity="0.22"/>
+    <circle cx="245" cy="220" r="15" fill="#ff8fc7"/>
+    </g>
+    <ellipse cx="160" cy="110" rx="190" ry="120" fill="url(#gloss)"/>
+  </g>
+  <circle cx="200" cy="200" r="186" fill="none" stroke="#a9b8ff" stroke-opacity="0.85" stroke-width="3"/>
+</svg>

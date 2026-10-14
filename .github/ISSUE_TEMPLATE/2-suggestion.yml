@@ -1,0 +1,57 @@
+name: 內容建議 / Content suggestion
+description: 建議改寫、新增內容或補充圖片 / Suggest a rewrite, new content or a figure
+title: "[建議] "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: chapter
+    attributes:
+      label: 章節 / Chapter
+      options:
+        - "第 0 章 Git 全景 / Ch. 0 The Big Picture"
+        - "第 1 章 準備工具 / Ch. 1 Setting Up Your Tools"
+        - "第 2 章 三個區域 / Ch. 2 The Three Areas"
+        - "第 3 章 Commit 的真面目 / Ch. 3 What a Commit Really Is"
+        - "第 4 章 分支 / Ch. 4 Branches"
+        - "第 5 章 合併與衝突 / Ch. 5 Merging and Conflicts"
+        - "第 6 章 遠端儲存庫 / Ch. 6 Remote Repositories"
+        - "第 7 章 Pull Request 與程式碼審查 / Ch. 7 Pull Requests and Code Review"
+        - "第 8 章 分支策略與版本發布 / Ch. 8 Branching Strategies and Releases"
+        - "第 9 章 後悔藥 / Ch. 9 Undoing Things"
+        - "第 10 章 好習慣 / Ch. 10 Good Habits"
+        - "附錄 A 術語總表 / Appendix A Glossary"
+        - "附錄 B 現場行話 / Appendix B Team Jargon"
+        - "附錄 C 指令與 Sourcetree 對照表 / Appendix C Commands and Sourcetree"
+        - "附錄 D 延伸閱讀 / Appendix D Further Reading"
+        - "練習專案 / Practice project"
+        - "README 或其他專案文件 / README or other project documents"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 建議類型 / Type
+      options:
+        - 說明不清楚，建議改寫 / Unclear explanation
+        - 新增名詞框或 Know-how 框 / New term box or know-how box
+        - 新增或修正「深入一點」 / New or corrected deep dive
+        - 「跟著做」的步驟跑不出來 / A hands-on step does not work
+        - 新增段落或主題 / New section or topic
+        - 繪製或改善圖片 / New or better figure
+        - 其他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 說明 / Details
+      description: 想改善什麼？為什麼？如果有草稿，也可以直接貼上。 / What would you improve and why? Feel free to paste a draft.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confidentiality
+    attributes:
+      label: 確認 / Confirmation
+      options:
+        - label: 我提供的內容不包含任何機密資訊、密碼或金鑰 / My suggestion contains no confidential information, passwords or keys
+          required: true

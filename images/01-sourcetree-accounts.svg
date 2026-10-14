@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420" role="img" aria-label="Sketch of the Sourcetree account settings, with numbered callouts">
+<rect x="1" y="1" width="698" height="418" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<rect x="30" y="30" width="640" height="360" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/><line x1="30" y1="62" x2="670" y2="62" stroke="#d0d7de" stroke-width="1.5"/><circle cx="48" cy="46" r="5" fill="#ff5f57"/><circle cx="64" cy="46" r="5" fill="#febc2e"/><circle cx="80" cy="46" r="5" fill="#28c840"/>
+<rect x="50" y="50" width="86" height="30" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="64" y="61" width="58" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="146" y="50" width="86" height="30" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="160" y="61" width="58" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="242" y="50" width="86" height="30" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="256" y="61" width="58" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="338" y="50" width="86" height="30" rx="5" fill="#ddf4ff" stroke="#0969da" stroke-width="1.5"/>
+<rect x="352" y="61" width="58" height="8" rx="4.0" fill="#0969da"/>
+<rect x="434" y="50" width="86" height="30" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="448" y="61" width="58" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="50" y="96" width="600" height="150" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<circle cx="74" cy="124" r="10" fill="#c7cdd4"/>
+<rect x="94" y="120" width="160" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="380" y="120" width="120" height="8" rx="4.0" fill="#e1e4e8"/>
+<circle cx="74" cy="164" r="10" fill="#c7cdd4"/>
+<rect x="94" y="160" width="190" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="380" y="160" width="120" height="8" rx="4.0" fill="#e1e4e8"/>
+<circle cx="74" cy="204" r="10" fill="#c7cdd4"/>
+<rect x="94" y="200" width="220" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="380" y="200" width="120" height="8" rx="4.0" fill="#e1e4e8"/>
+<rect x="50" y="258" width="80" height="28" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><rect x="62" y="268.0" width="56" height="8" rx="4.0" fill="#8c959f"/>
+<rect x="140" y="258" width="80" height="28" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><rect x="152" y="268.0" width="56" height="8" rx="4.0" fill="#8c959f"/>
+<rect x="230" y="258" width="80" height="28" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><rect x="242" y="268.0" width="56" height="8" rx="4.0" fill="#8c959f"/>
+<rect x="300" y="200" width="330" height="170" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="2"/>
+<rect x="320" y="222" width="90" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="430" y="214" width="180" height="26" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="442" y="223" width="110" height="8" rx="4.0" fill="#c7cdd4"/>
+<path d="M590,222 l6,7 l6,-7" fill="none" stroke="#8c959f" stroke-width="2"/>
+<rect x="320" y="262" width="70" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="430" y="254" width="180" height="26" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="442" y="263" width="80" height="8" rx="4.0" fill="#c7cdd4"/>
+<rect x="430" y="296" width="180" height="30" rx="6" fill="#0969da" stroke="#0969da" stroke-width="1.5"/><rect x="442" y="307.0" width="156" height="8" rx="4.0" fill="#ffffff"/>
+<rect x="470" y="336" width="66" height="24" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><rect x="482" y="344.0" width="42" height="8" rx="4.0" fill="#8c959f"/>
+<rect x="544" y="336" width="66" height="24" rx="6" fill="#1f883d" stroke="#1f883d" stroke-width="1.5"/><rect x="556" y="344.0" width="42" height="8" rx="4.0" fill="#ffffff"/>
+<line x1="90" y1="320" x2="90" y2="286" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="90" cy="320" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="90" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">1</text>
+<line x1="650" y1="190" x2="610" y2="220" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="650" cy="190" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="650" y="195" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">2</text>
+<line x1="655" y1="311" x2="612" y2="311" stroke="#cf222e" stroke-width="2" stroke-dasharray="4 3"/><circle cx="655" cy="311" r="14" fill="#cf222e" stroke="#ffffff" stroke-width="2"/><text x="655" y="316" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#ffffff">3</text>
+</svg>
